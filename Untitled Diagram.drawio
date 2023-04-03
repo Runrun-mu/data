@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T07:24:07.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="HgH8Sy65gcOZPI6HUyAD" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T07:24:44.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="TmtXqFgyDpF0X-Kf8DdM" version="21.1.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1378" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
             <mxPoint x="370" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Ji9P3CsPrjVuzItavN-35" value="加入群聊" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="5-Ji9P3CsPrjVuzItavN-35" value="用户点击About NFT 按钮" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.0244" y="10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="275" as="sourcePoint" />
             <mxPoint x="365" y="275" as="targetPoint" />
@@ -141,13 +141,6 @@
         </mxCell>
         <mxCell id="5-Ji9P3CsPrjVuzItavN-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="665" y="510" width="10" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="5-Ji9P3CsPrjVuzItavN-48" value="存储用户信息" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.6" y="10" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="675" y="550" as="sourcePoint" />
-            <mxPoint x="950" y="550" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="5-Ji9P3CsPrjVuzItavN-49" value="输出文本" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="5-Ji9P3CsPrjVuzItavN-47">
           <mxGeometry x="-0.7426" y="-10" width="50" height="50" relative="1" as="geometry">
