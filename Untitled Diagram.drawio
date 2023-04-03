@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T07:24:44.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="TmtXqFgyDpF0X-Kf8DdM" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-03T07:26:19.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="RYAHEJ5r6B6QgQgQhUMm" version="21.1.2" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1378" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -155,7 +155,7 @@
         <mxCell id="5-Ji9P3CsPrjVuzItavN-56" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="5-Ji9P3CsPrjVuzItavN-50">
           <mxGeometry x="415" y="38" width="10" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="5-Ji9P3CsPrjVuzItavN-51" value="“DiscordBot“ -&amp;gt;&quot;AWSSagemaker&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=220;height=20;" vertex="1" parent="1">
+        <mxCell id="5-Ji9P3CsPrjVuzItavN-51" value="“DiscordBot“ -&amp;gt;Redis&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=220;height=20;" vertex="1" parent="1">
           <mxGeometry x="320" y="340" width="520" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5-Ji9P3CsPrjVuzItavN-57" value="返回请求结果" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="5-Ji9P3CsPrjVuzItavN-51">
@@ -165,7 +165,7 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-Ji9P3CsPrjVuzItavN-53" value="“DiscordBot“ -&amp;gt;&quot;AWSSagemaker&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=220;height=20;" vertex="1" parent="1">
+        <mxCell id="5-Ji9P3CsPrjVuzItavN-53" value="”RabbitMQ“ -&amp;gt;&quot;GoService&quot;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=220;height=20;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="880" height="130" as="geometry" />
         </mxCell>
       </root>
